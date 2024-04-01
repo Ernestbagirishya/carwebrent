@@ -1,0 +1,90 @@
+.fieldset1{
+	border: 3px solid #00cc66;
+	height: ;
+	width: 40%;
+	border-radius: 5px;
+
+}
+.head_admin_create_account{
+	font-size: 30px;
+	font-family: Arial Black;
+}
+.field_1{
+	margin-top: 40px;
+}
+.field_1_firstname{
+	font-family: Arial Black;
+}
+.field_1_firstname_field{
+	width: 50%;
+	height: 30px;
+}
+.field_2{
+	margin-top: 20px;
+}
+.field_2_lastname{
+	font-family: Arial Black;
+	margin-right: 7.5px;
+}
+.field_2_lastname_field{
+	width: 50%;
+	height: 30px;
+}
+.field_3{
+	margin-top: 20px;
+}
+.field_3_username{
+	font-family: Arial Black;
+	margin-right: px;
+}
+.field_3_username_field{
+	width: 50%;
+	height: 30px;
+}
+
+.field_4{
+	margin-top: 20px;
+}
+.field_4_email{
+	font-family: Arial Black;
+	margin-right: 37px;
+}
+.field_4_email_field{
+	width: 50%;
+	height: 30px;
+}
+
+.field_5{
+	margin-top: 20px;
+}
+.field_5_password{
+	font-family: Arial Black;
+	margin-right: px;
+}
+.field_5_password_field{
+	width: 50%;
+	height: 30px;
+}
+
+.field_6{
+	margin-top: 20px;
+
+}
+
+.field_6_signup_button{
+    width: 51.5%;
+	height: 30px;
+	margin-left: 15.2%;
+	font-family: Arial Black;
+	background-color: #00cc66;
+	border: none;
+	cursor: pointer;
+
+
+}
+.field_7{
+	margin-top: 70px;
+	margin-left: 10%;
+	font-family: Arial Black;
+
+}

@@ -1,0 +1,52 @@
+.fieldset1{
+	border: 3px solid #00cc66;
+	height: ;
+	width: 40%;
+	border-radius: 5px;
+
+}
+.head_admin_login{
+	font-size: 30px;
+	font-family: Arial Black;
+}
+.field_1{
+	margin-top: 40px;
+}
+.field_1_username{
+	font-family: Arial Black;
+}
+.field_1_username_field{
+	width: 50%;
+	height: 30px;
+}
+.field_2{
+	margin-top: 20px;
+}
+.field_2_username{
+    font-family: Arial Black;
+}
+.field_2_username_field{
+	width: 50%;
+	height: 30px;
+}
+.field_3{
+	margin-top: 20px;
+
+}
+.field_3_login_button{
+    width: 51.5%;
+	height: 30px;
+	margin-left: 15.2%;
+	font-family: Arial Black;
+	background-color: #00cc66;
+	border: none;
+	
+	
+
+}
+.field_4{
+	margin-top: 70px;
+	margin-left: 10%;
+	font-family: Arial Black;
+
+}

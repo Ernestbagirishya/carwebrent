@@ -1,0 +1,56 @@
+.fieldset1{
+	border: 3px solid #00cc66;
+	height: ;
+	width: 60%;
+	border-radius: 5px;
+	font-family: Arial Black;
+}
+.head_rent_car{
+	font-size: 30px;
+}
+.div1{
+	margin-top: 40px;
+}
+.div1_car_name_field{
+	height: 30px;
+	width: 30%;
+}
+.div1_car_price_field{
+	height: 30px;
+	width: 30%;
+}
+
+.div2{
+	margin-top: 30px;
+	margin-right: 1px;
+}
+.div2_start_rent_field{
+	height: 30px;
+	width: 30%;
+}
+.div2_end_rent_field{
+	height: 30px;
+	width: 30%;
+}
+
+.div3{
+	margin-top: 20px;
+}
+
+.rent_car{
+	width: 51.5%;
+	height: 30px;
+	margin-left: 15.2%;
+	font-family: Arial Black;
+	background-color: #00cc66;
+	border: none;
+	cursor: pointer;
+
+}
+
+
+
+
+
+
+

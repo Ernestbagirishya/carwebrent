@@ -1,0 +1,64 @@
+.fieldset1{
+	border: 3px solid #00cc66;
+	height: ;
+	width: 40%;
+	border-radius: 5px;
+
+}
+.head_admin_add_car{
+	font-size: 30px;
+	font-family: Arial Black;
+}
+.field_1{
+	margin-top: 40px;
+}
+.field_1_car_name{
+	font-family: Arial Black;
+}
+.field_1_add_car_field{
+	width: 50%;
+	height: 30px;
+	margin-left: 5px;
+}
+
+.field_2{
+	margin-top: 20px;
+}
+.field_2_car_price{
+	font-family: Arial Black;
+
+}
+.field_2_add_car_field{
+	width: 50%;
+	height: 30px;
+}
+
+.field_3{
+	margin-top: 20px;
+	margin-right: 39.9px;
+}
+.field_3_car_image{
+	font-family: Arial Black;
+
+}
+.field_3_add_car_field{
+	width: 50%;
+	height: 30px;
+}
+
+.field_4{
+	margin-top: 20px;
+
+}
+
+.field_4_add_car_button{
+    width: 51.5%;
+	height: 30px;
+	margin-left: 15.2%;
+	font-family: Arial Black;
+	background-color: #00cc66;
+	border: none;
+	cursor: pointer;
+
+
+}
